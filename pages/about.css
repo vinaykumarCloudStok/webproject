@@ -1,0 +1,19 @@
+
+.about-page-section{
+display: flex;
+justify-content: space-between;
+padding: 3rem 0 3rem 0;
+/* align-items: center; */
+}
+.about-page-section-left img{
+    width: 100%;
+}
+.about-page-section-left{
+    width: 45%;
+}
+.about-page-section-right{
+    width: 45%;
+}
+.about-page-section-right p{
+    margin-top: 1rem;
+}
